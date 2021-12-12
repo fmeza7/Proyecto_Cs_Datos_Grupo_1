@@ -1,0 +1,53 @@
+N,Nombre,LOC,Region,Equipo,apertura,capacidad,latitud,longitud
+1,Estadio Nacional Julio Martínez Prádanos,Santiago (Ñuñoa),Metropolitana,Selección de fútbol de Chile  Universidad de Chile,1938(2010),48 665
+2,Estadio Monumental David Arellano,Santiago (Macul),Metropolitana,Colo-Colo,1975(1989),47 347
+3,Estadio Ester Roa Rebolledo,Concepción,Biobío,Deportes Concepción  Universidad de Concepción  Fernández Vial,1962(2015),30 448
+4,Estadio Sausalito,Viña del Mar,Valparaíso,Everton,1929(2015),23 423
+5,Estadio Regional Calvo y Bascuñán,Antofagasta,Antofagasta,Deportes Antofagasta,1964(2013),21 178
+6,Estadio Elías Figueroa Brander,Valparaíso,Valparaíso,Santiago Wanderers,1931(2014),20 575
+7,Estadio Santa Laura - Universidad SEK,Santiago (Independencia),Metropolitana,Unión Española,1923(2008),19 000
+8,Estadio Francisco Sánchez Rumoroso,Coquimbo,Coquimbo,Coquimbo Unido,1970(2008),18 750
+9,Estadio Germán Becker,Temuco,La Araucanía,Deportes Temuco,1965(2008),18 413
+10,Estadio La Portada,La Serena,Coquimbo,Deportes La Serena,1952(2015),18 243
+11,Estadio Fiscal de Talca,Talca,Maule,Rangers de Talca,1930(2019),16 070
+12,Estadio San Carlos de Apoquindo,Santiago (Las Condes),Metropolitana,Universidad Católica,1988(2012),14 780
+13,Estadio El Teniente,Rancagua,O'Higgins,O'Higgins,1945(2015),13 849
+14,Estadio Tierra de Campeones,Iquique,Tarapacá,Deportes Iquique,1993(2020),13 171
+15,Estadio Zorros del Desierto,Calama,Antofagasta,Cobreloa,1952(2015),12 102
+16,Estadio Bicentenario de La Florida,Santiago (La Florida),Metropolitana,Audax Italiano,2008,12 000
+17,Estadio Bicentenario Nelson Oyarzún,Chillán,Ñuble,Ñublense,1961(2008),12 000
+18,Estadio El Cobre,El Salvador,Atacama,Cobresal,1980,12 000
+19,Estadio Rubén Marcos Peralta,Osorno,Los Lagos,Provincial Osorno,1940,11 000
+20,Estadio Huachipato-CAP Acero,Talcahuano,Biobío,Huachipato,2009,10 500
+21,Estadio Regional de Chinquihue,Puerto Montt,Los Lagos,Deportes Puerto Montt,1982(2013),10 000
+22,Estadio Municipal de San Felipe,San Felipe,Valparaíso,Unión San Felipe,1958,10 000
+23,Estadio Carlos Dittborn,Arica,Arica y Parinacota,San Marcos de Arica,1962(2014),9625
+24,Estadio Municipal Nicolás Chahuán Nazar,La Calera,Valparaíso,Unión La Calera,1954(2019),9200
+25,Estadio Luis Valenzuela Hermosilla,Copiapó,Atacama,Deportes Copiapó,1960(2011),8500
+26,Estadio La Granja,Curicó,Maule,Curicó Unido,1949(2016),8278,-34.974356,-71.230707
+27,Estadio Municipal de La Cisterna,Santiago (La Cisterna),Metropolitana,Palestino,1988,8000,-33.52083333,-70.67277778
+28,Estadio Municipal Lucio Fariña Fernández,Quillota,Valparaíso,San Luis de Quillota,1940(2010),7700,-32.8876,-71.252
+29,Estadio El Morro,Talcahuano,Biobío,Naval,1949(2012),7000,-36.7225,-73.1075
+30,Estadio Roberto Bravo Santibáñez,Melipilla,Metropolitana,Deportes Melipilla,1942,6500,-33.6969444,-71.2166667
+31,Estadio Municipal Jorge Silva Valenzuela,San Fernando,O'Higgins,Deportes Colchagua,1939,6000,-34.5769445,-70.9863889
+32,Estadio Municipal de La Pintana,Santiago (La Pintana),Metropolitana,Santiago Morning  La Pintana Unida,1996,6000,-33.586667,-70.635833
+33,Estadio Municipal Joaquín Muñoz García,Santa Cruz,O'Higgins,Deportes Santa Cruz,1920,6000,-34.6391,-71.3684
+34,Estadio Diaguita,Ovalle,Coquimbo,Provincial OvalleCSD Ovalle,2017,5160,-30.0230300,-70.6350700
+35,Estadio Municipal Doctor Olegario Henríquez Escalante,San Antonio,Valparaíso,San Antonio Unido,1962(2021),5000,-33.6043,-71.6148
+36,Estadio Fiscal Manuel Moya Medel,Cauquenes,Maule,Independiente de Cauquenes,1960(2021),5000,-35.967222,-72.315556
+37,Estadio Municipal Nelson Rojas,Vallenar,Atacama,Deportes Vallenar,,5000,-28.580575,-70.758817
+38,Estadio Parque Municipal,Valdivia,Los Ríos,Deportes Valdivia,,5000,-39.8207,-73.2335
+39,Estadio Fiscal Antonio Rispoli Díaz,Punta Arenas,Magallanes y Antártica Chilena,"Club Sokol, Prat, Español, Scout, selección de Punta Arenas",1960(2008),5000,-53.1541,-70.8955
+40,Estadio Municipal de Los Ángeles,Los Ángeles,Biobío,Deportes Iberia,,4150,-37.4704,-72.3615
+41,Estadio Alberto Larraguibel,Angol,La Araucanía,Malleco Unido,,4000,-37.8037,-72.7033
+42,Estadio Federico Schwager,Coronel,Biobío,Lota Schwager,1942(2021),4000,-37.007778,-73.170278
+43,Estadio Fiscal Tucapel Bustamante Lastra,Linares,Maule,Deportes Linares,1948,4000,-35.855425,-71.591033
+44,Estadio Santiago Bueras,Santiago (Maipú),Metropolitana,Cultural Maipú,1984,4000,-33.507458,-70.749122
+45,Estadio Lautaro de Buin,Buin,Metropolitana,Lautaro de Buin,1967(2020),3700,-33.737222,-70.737778
+46,Estadio Arturo Vidal,Santiago (San Joaquín),Metropolitana,Real San Joaquín,2016,3500,-33.484056,-70.628278
+47,Estadio Municipal Luis Navarro Avilés,Santiago (San Bernardo),Metropolitana,Deportes Magallanes,,3500,-33.594481,-70.690268
+48,Estadio Municipal Ítalo Composto Scarpatti,Villa Alemana,Valparaíso,Deportivo Iván Mayo,,3500,-33.0336,-71.3719
+49,Estadio Regional de Los Andes,Los Andes,Valparaíso,Trasandino de Los Andes,1996,3300,-32.838611,-70.604167
+50,Estadio Municipal Augusto Rodríguez,San Vicente de Tagua Tagua,O'Higgins,General Velásquez,,3000,-34.43859,-71.07751
+51,Estadio Municipal de Lo Barnechea,Santiago (Lo Barnechea),Metropolitana,AC Barnechea,2015,2500,-33.3543,-70.4982
+52,Estadio Municipal Raúl Vargas Verdejo,Quintero,Valparaíso,Quintero Unido,,2500,-32.783333,-71.533333
