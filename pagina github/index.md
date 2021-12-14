@@ -38,23 +38,21 @@ equipos de los torneos por años y su rendimiento en los torneos?
 
 Los resultados hallados durante el estudio de lo planteado los responderemos en base a la relacion que tienen con respecto a las preguntas de investigación planteadas:
 
+
+<img style="float: left; padding-right: 0.4cm; width: 8.5cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_2/regresion_2.png">
+
 1) Respondiendo a la pregunta 1, utilizamos el dataset de los equipos que permanecieron en primera división durante todo el intervalo de tiempo medido para el proyecto. Es importante resaltar que el numero de datos ingresados son bajos ya que el Nº de equipos que se mantuvo en primera división durante los 10 años en que se midio el proyecto fueron 9. De esta manera las metricas utilizadas como el MSE y R2, dificilmente son posibles de analizar correctamente debido a la baja cantidad de datos. Por lo tanto el análisis para este apartado estaría sesgado debido a la baja cantidad de datos.
 
-2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños. 
+<img style="float: left; padding-right: 0.4cm; width: 7.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/mapa%20estadios.jpg">
+
+2) Para la pregunta dos apreciamos que gran parte de los equipos que han estado en primera división estos 10 útlimos años pertenecen a la región metropolitana. Se puede apreciar que en general estos equipos son los que presentan un mayor gasto en compra y venta de jugadores, lo que habla del poder adquisitivo de estos equipos en comparación con los equipos de regiones. También es notoria la diferencia en la capacidad de los estadios, superando hasta en casi 4 veces el tamaño de los estadios de los equipos de regiones pequeños.
+
+-
+
+<img style="float: left; padding-right: 0.4cm; width: 9.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/equipos_balance.PNG">
 
 3) Para las preguntas 3 y 4, al analizar el dataframe de rendimiento acumulado, vemos que 6 de los 7 equipos de la región metropolitana se han mantenido sin descender a lo largo del intervalo de tiempo estudiado. Esto puede ser indicativo de que al ser un equipo de región se tiene mayores probabilidades de descender a la segunda división del fútbol chileno. No consideramos el ser de región como variable categórica en el análisis ya que pudimos llegar a esta conclusión mediante el dataframe de rendimiento acumulado.
 
 4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
 
-Para simplificar un poco los datos hemos analizado cual a sido el top 5 de los equipos que sobresalieron (y que han ganado) en los torneos de cada año.
-
-De este analisis se han destacado tres: La Universidad de Chile, la Universidad Catolica y el Colo-Colo
-# <img style="float: center; padding-right: 0.5cm; width: 9.0cm" src="https://th.bing.com/th/id/R.eb9f4b9c1f6a937ae39c3eb85241bb28?rik=V3F7vqqe4izTOQ&pid=ImgRaw&r=0&sres=1&sresct=1">
-
-1.) De la Universidad de Chile vemos que ha quedado en el top 5 ocho veces (con escepción en los años 2013, 2015 y 2019) y ha ganado el torneo de los años 2011 y 2012
-
-2.) Le sigue la Universidad Catolica que ha logrado estar 9 veces dentro de los 5 mejores (donde no pudieron en los años 2014 y 2017), y la sorpresa es que han ganado 7 de 11 torneos en los ultimos 10 años analizados, con una racha de tres torneos ganados entre los años 2018 a 2020. Se convierte en el máximo triunfador de la decada.
-
-3.) Por ultimo tenemos a Colo-Colo, que comparado con el resto ha permanecido en el top 5 10 veces, con la unica escepcion el año 2020 donde tuvieron muchas complicaciones. Y solo han ganado dos torneos, el de 2014 y 2017
-
-Una comparacion interesante es que colo-colo ha ganado en los mismos años en que la UC no a podido quedar entre los 5 mejores, lo que podria indicar que habria una relacion entre el desempeño de ambos equipos, donde si a uno le esta yendo mal, el otro aprovecha para ganar confianza y mejorar en sus partidos 
+<img style="float: left; padding-right: 0.4cm; width: 8.0cm" src="https://github.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/blob/main/graficos%20finales/gdf_final.PNG">
