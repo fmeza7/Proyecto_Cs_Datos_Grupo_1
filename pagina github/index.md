@@ -53,6 +53,6 @@ Los resultados hallados durante el estudio de lo planteado los responderemos en 
 
 3) Para las preguntas 3 y 4, al analizar el dataframe de rendimiento acumulado, vemos que 6 de los 7 equipos de la región metropolitana se han mantenido sin descender a lo largo del intervalo de tiempo estudiado. Esto puede ser indicativo de que al ser un equipo de región se tiene mayores probabilidades de descender a la segunda división del fútbol chileno. No consideramos el ser de región como variable categórica en el análisis ya que pudimos llegar a esta conclusión mediante el dataframe de rendimiento acumulado.
 
-4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
+<img style="float: left; padding-right: 0.4cm; width: 8.0cm" src="https://raw.githubusercontent.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/main/graficos%20finales/regresion_1/lasso_esp.png">
 
-<img style="float: left; padding-right: 0.4cm; width: 8.0cm" src="https://github.com/fmeza7/Proyecto_Cs_Datos_Grupo_1/blob/main/graficos%20finales/gdf_final.PNG">
+4) Y con respecto a las ultimas dos preguntas, en base al modelo multilineal con regularización seleccionado(regresión Lasso con alfa igual a 1), notamos que las variables ingresos y costos no tienen un peso significativo en la predicción de cantidad de puntos obtenidos por equipo, por lo tanto estas variables no estan influyendo en los rendimientos de los equipos.
